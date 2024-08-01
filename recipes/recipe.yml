@@ -32,7 +32,6 @@ modules:
       - podman-compose
       - powertop
       - tailscale
-      - cockpit
       - cockpit-machines
       - cockpit-networkmanager
       - cockpit-ostree
