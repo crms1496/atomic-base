@@ -32,6 +32,7 @@ modules:
       - mosh
       - podman-compose
       - powertop
+      - rmlint
       - tailscale
       - cockpit-machines
       - cockpit-networkmanager
