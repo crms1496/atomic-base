@@ -32,6 +32,7 @@ modules:
       - duperemove
       - fish
       - mosh
+      - podlet
       - podman-compose
       - powertop
       - rmlint
