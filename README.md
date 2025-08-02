@@ -4,7 +4,7 @@ This modifies Universal Blue's base image from https://github.com/ublue-os/main 
 
 ## Installation
 
-> **Warning**  
+> [!WARNING]  
 > [This is an experimental feature](https://www.fedoraproject.org/wiki/Changes/OstreeNativeContainerStable), try at your own discretion.
 
 To rebase an existing atomic Fedora installation to the latest build:
