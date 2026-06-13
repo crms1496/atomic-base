@@ -51,6 +51,7 @@ modules:
       - firefox
       - firefox-langpacks # also remove firefox dependency (not required for all packages, this is a special case)
       - plymouth
+      - plymouth-scripts
 
   - type: default-flatpaks
     configurations:
