@@ -52,8 +52,12 @@ modules:
       - firefox-langpacks # also remove firefox dependency (not required for all packages, this is a special case)
       - plymouth
       - plymouth-scripts
-      - plymouth-plugin-two-step 
+      - plymouth-core-libs
+      - plymouth-graphics-libs
       - plymouth-plugin-label
+      - plymouth-plugin-two-step
+      - plymouth-theme-spinner
+      - plymouth-system-theme
 
   - type: default-flatpaks
     configurations:
